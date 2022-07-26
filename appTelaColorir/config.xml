@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.marcioCarneiro.appTelaColorir" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Tela Colorida</name>
+    <description>App para troca de cores na tela.</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        
+    </author>
+    <content src="index.html" />
+
+<icon src="res/cores.png" />
+  
+
+    <preference name= "SplashScreen" value="screen" />
+    <splash src="res/cores.png" />
+
+    
+
+    <preference name= "Fullscren" value="true" />
+
+
+
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
